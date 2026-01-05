@@ -1,5 +1,12 @@
 # Network Traffic Analysis
 
+## 思路整理
+-训练方式
+  - 全监督：全部有标签
+  - 半监督：部分有标签
+  - 无监督：全部无标签
+
+
 ## Papers
 
 ### Network Traffic Classification
